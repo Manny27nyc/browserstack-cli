@@ -23,7 +23,7 @@
     "node": ">=0.6.0"
   },
   "dependencies": {
-    "commander": "1.x",
+    "commander": "8.3.0",
     "browseroverflow": "~0.0.6",
     "cli-table": "~0.2.0"
   },
